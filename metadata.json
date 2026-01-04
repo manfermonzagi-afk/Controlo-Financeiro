@@ -1,0 +1,7 @@
+{
+  "name": "Financia AI - Controle Financeiro Inteligente",
+  "description": "Um gerenciador financeiro moderno que utiliza inteligência artificial para categorizar gastos, fornecer insights personalizados e ajudar você a economizar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
